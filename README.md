@@ -21,11 +21,10 @@
 ```python
 class RizkyAnanda:
     def __init__(self):
-        self.role       = "Machine Learning & Data Science Enthusiast"
-        self.education  = "S.Kom — Informatics, Universitas Nusantara PGRI Kediri (GPA 3.90/4.00)"
+        self.role       = "Data Science Enthusiast & Software Engineer"
+        self.education  = "S.Kom — Informatics, Universitas Nusantara PGRI Kediri"
         self.focus      = ["Classical ML", "Deep Learning", "Expert Systems", "Decision Support Systems"]
         self.currently  = "Awaiting graduation — actively looking for ML/DS opportunities"
-        self.fun_fact   = "Also lead Maghrib prayers at my neighborhood mosque since 2020 🕌"
 
     def say_hi(self):
         return "Let's build something data-driven together!"
