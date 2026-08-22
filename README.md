@@ -120,8 +120,6 @@ Classifies cat vocalizations into emotional states using audio feature extractio
 - **Cat Emotion Classification** — SVM · *Prosiding STAINS*
 - **Infographic Skills Training (KKN)** — Community Service Study · *Prosiding NCCE*
 
-> 🔗 DOI links available on request / add here once linked
-
 <br/>
 
 ## 📈 GitHub Stats
