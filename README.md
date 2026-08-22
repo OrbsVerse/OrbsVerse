@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Hi,%20I'm%20Rizky%20Ananda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Hi,%20I'm%20Rizky%20Ananda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/OrbsVerse">
   <img src="https://readme-typing-svg.demolab.com/?lines=Turning+data+into+decisions...;SVM+%7C+TabNet+%7C+MCDM+%7C+Expert+Systems;Informatics+graduate+%40+UN+PGRI+Kediri;Open+to+ML%2FData+Science+roles+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=40&color=00ADB5&vCenter=true&size=20&pause=1500"/>
