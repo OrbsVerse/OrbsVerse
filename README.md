@@ -3,7 +3,7 @@
 <img src="assets/profile-banner.png" width="100%"/>
 
 <a href="https://github.com/OrbsVerse">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Informatics+graduate+%40+UN+PGRI+Kediri;Python+%7C+Data+Analysis+%7C+Machine+Learning;Building+%26+customizing+ERP+systems+(Odoo);Open+to+Software%2FIT+opportunities+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=40&color=00ADB5&vCenter=true&size=20&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Informatics+Engineering+graduate+%40+UN+PGRI+Kediri;Python+%7C+Data+Analysis+%7C+Machine+Learning;Building+%26+customizing+ERP+systems+(Odoo);Open+to+Software%2FIT+opportunities+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=40&color=00ADB5&vCenter=true&size=20&pause=1500"/>
 </a>
 
 <p>
