@@ -63,7 +63,7 @@ Deep learning–based diagnostic support system for early heart disease detectio
 Interactive app comparing SVM, Logistic Regression, and Perceptron with Grid Search tuning.
 - **Stack:** Python, Scikit-learn, Streamlit
 - 🚀 **[Live Demo →](https://final-task-ml.streamlit.app)**
-- 🔗 [`final-task-ml`](https://github.com/OrbsVerse/final-task-ml)
+- 🔗 [`multi-algorithm-classifier-comparison`](https://github.com/OrbsVerse/multi-algorithm-classifier-comparison)
 
 </td>
 <td width="50%" valign="top">
