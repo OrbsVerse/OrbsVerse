@@ -3,13 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Hi,%20I'm%20Rizky%20Ananda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Graduate%20%7C%20Software%20%26%20Data%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/OrbsVerse">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Informatics+graduate+%40+UN+PGRI+Kediri;Python+%7C+Data+Analysis+%7C+Machine+Learning;Currently+exploring+ERP+%26+business+systems+(Odoo);Open+to+Software%2FIT+opportunities+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=40&color=00ADB5&vCenter=true&size=20&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Informatics+graduate+%40+UN+PGRI+Kediri;Python+%7C+Data+Analysis+%7C+Machine+Learning;Building+%26+customizing+ERP+systems+(Odoo);Open+to+Software%2FIT+opportunities+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=40&color=00ADB5&vCenter=true&size=20&pause=1500"/>
 </a>
 
 <p>
   <a href="https://linkedin.com/in/rizky-ananda-putra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rizkyannandsan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://final-task-ml.streamlit.app"><img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
 </p>
 
 </div>
@@ -23,9 +22,8 @@ class RizkyAnanda:
     def __init__(self):
         self.role       = "Informatics Graduate | Software & Data Enthusiast"
         self.education  = "S.Kom — Informatics, Universitas Nusantara PGRI Kediri (GPA 3.90/4.00)"
-        self.experience = ["Python Development", "Machine Learning", "Decision Support Systems", "ERP Systems (Odoo) — currently learning"]
+        self.experience = ["Python Development", "Machine Learning", "Decision Support Systems", "ERP Systems (Odoo)"]
         self.currently  = "Open to opportunities in software development & IT consulting"
-        self.fun_fact   = "Also lead Maghrib prayers at my neighborhood mosque since 2020 🕌"
 
     def say_hi(self):
         return "Let's build something great together!"
@@ -40,7 +38,7 @@ class RizkyAnanda:
 <td width="50%" valign="top">
 
 ### 🩺 Health Misinformation Detector
-**Thesis project** — classifies health-related claims as myth/fact and serves results via a Telegram chatbot.
+**Bachelor thesis project** — classifies health-related claims as myth/fact and serves results via a Telegram chatbot.
 - **Model:** SVM · up to **97.5%** accuracy
 - **Stack:** Python, Scikit-learn, Telegram Bot API
 - 📄 Presented at *SEMNAS INOTEK* (Random Forest variant)
@@ -49,18 +47,18 @@ class RizkyAnanda:
 <td width="50%" valign="top">
 
 ### ❤️ Heart Disease Diagnosis
-Deep learning–based diagnostic support system for early heart disease detection.
-- **Model:** TabNet / MLP · **PyTorch**
+Deep learning diagnostic support system for heart disease risk, using TabNet with attention-based feature selection.
+- **Model:** TabNet · **PyTorch**
 - **Stack:** Python, PyTorch, Streamlit
-- 🔗 [`heart-disease-mlp-diagnosis`](https://github.com/OrbsVerse/heart-disease-mlp-diagnosis)
+- 🔗 [`heart-disease-tabnet-diagnosis`](https://github.com/OrbsVerse/heart-disease-tabnet-diagnosis)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 ML Model Comparison App
-Interactive app comparing SVM, Logistic Regression, and Perceptron with Grid Search tuning.
+### 📊 Multi-Algorithm Classifier Comparison
+Interactive app comparing SVM, Logistic Regression, and Perceptron across 3 Kaggle datasets with Grid Search tuning.
 - **Stack:** Python, Scikit-learn, Streamlit
 - 🚀 **[Live Demo →](https://final-task-ml.streamlit.app)**
 - 🔗 [`multi-algorithm-classifier-comparison`](https://github.com/OrbsVerse/multi-algorithm-classifier-comparison)
@@ -79,7 +77,7 @@ Decision support system using AHP & MCDM methods for evaluating medical practice
 <td width="50%" valign="top">
 
 ### 😴 Sleep Disorder Expert System
-Rule-based diagnostic system using Certainty Factor for sleep disorder risk detection.
+Hybrid expert system (Forward + Backward Chaining, Certainty Factor) for preliminary sleep disorder risk diagnosis.
 - **Stack:** Python, Streamlit, MySQL
 - 🔗 [`expert-system-sleep-disorder`](https://github.com/OrbsVerse/expert-system-sleep-disorder)
 
@@ -87,9 +85,9 @@ Rule-based diagnostic system using Certainty Factor for sleep disorder risk dete
 <td width="50%" valign="top">
 
 ### 🐱 Cat Emotion Classification
-Classifies cat vocalizations into emotional states using audio feature extraction.
+Classifies cat vocalizations into 14 emotional states (SVM + in-memory augmentation, 92.94% accuracy).
 - **Model:** SVM
-- 📄 Presented at *STAINS*
+- 📄 Presented at *STAINS 2026*
 - 🔗 [`CaVoLab-cat-sound-classification-system`](https://github.com/OrbsVerse/CaVoLab-cat-sound-classification-system)
 
 </td>
@@ -107,6 +105,7 @@ Classifies cat vocalizations into emotional states using audio feature extractio
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -117,11 +116,9 @@ Classifies cat vocalizations into emotional states using audio feature extractio
 
 ## 📚 Published Research
 
-- **Health Myth/Fact Classification** — Random Forest · *Prosiding SEMNAS INOTEK*
-- **Cat Emotion Classification** — SVM · *Prosiding STAINS*
-- **Infographic Skills Training (KKN)** — Community Service Study · *Prosiding NCCE*
-
-> 🔗 DOI links available on request / add here once linked
+- **Health Myth/Fact Classification** — Random Forest · *Prosiding SEMNAS INOTEK, 2026*
+- **Cat Emotion Classification** — SVM · *Prosiding STAINS, 2026*
+- **Infographic Skills Training (KKN)** — Community Service Study · *Prosiding NCCE, 2026*
 
 <br/>
 
