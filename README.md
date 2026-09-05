@@ -20,8 +20,8 @@
 ```python
 class RizkyAnanda:
     def __init__(self):
-        self.role       = "Informatics Graduate | Software & Data Enthusiast"
-        self.education  = "S.Kom — Informatics, Universitas Nusantara PGRI Kediri (GPA 3.90/4.00)"
+        self.role       = "Informatics Engineering Graduate | Software Development & Data Science | Exploring ERP"
+        self.education  = "S.Kom — Informatics, Universitas Nusantara PGRI Kediri (CGPA 3.90/4.00)"
         self.experience = ["Python Development", "Machine Learning", "Decision Support Systems", "ERP Systems (Odoo)"]
         self.currently  = "Open to opportunities in software development & IT consulting"
 
